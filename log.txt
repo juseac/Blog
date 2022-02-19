@@ -1,0 +1,5 @@
+commit 7ab22f1fa6ff53c3ea2a22e9069f9f97a6cf7d8b
+Author: Juan S Arrieta <jsarrietac@gmail.com>
+Date:   Sat Feb 19 00:09:10 2022 -0500
+
+    Se añade blogspot.html y css
